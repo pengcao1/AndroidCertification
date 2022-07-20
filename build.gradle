@@ -10,7 +10,7 @@ task clean(type: Delete) {
 }
 
 ext {
-    compileSdk = 32
+    compileSdk = 31
     minSdk = 24
-    targetSdk = 32
+    targetSdk = 31
 }
